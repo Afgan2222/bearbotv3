@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6281261973803'] 
+global.owner = ['6282125968810'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Razul'
-global.numberowner = '6281261973803'
-global.instagram = 'https://instagram.com/k0nc1t'
-global.github = 'https://github.com/koncit'
-global.dana = '081261973803'
-global.pulsa = '081261973803'
-global.gopay = '081261973803'
+global.nameowner = 'Afgan  ID'
+global.numberowner = '6282125968810'
+global.instagram = 'https://instagram.com'
+global.github = 'https://github.com/Afgan2222'
+global.dana = '082125968810'
+global.pulsa = '082125968810'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'BearBot-Md'
+global.namebot = 'kanna BOT'
 global.gc = 'https://chat.whatsapp.com/KZ8a8elMR1lHfKoW7kNNto'
-global.web = 'https://www.app-koncit.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://xnxx.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/94ba03b80edd8f8a8ae75.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/94ba03b80edd8f8a8ae75.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Bear Bot'
+global.wm = 'kanna BOT'
 global.watermark = wm
-global.wm2 = '                     「 Bear Bot あ⁩ 」'
-global.wm3 = '⫹⫺ Bear Bot'
+global.wm2 = '                     「 kanna BOT あ⁩ 」'
+global.wm3 = '⫹⫺ kanna BOT'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/94ba03b80edd8f8a8ae75.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Bear Bot'
-global.author = '© Razul Ganteng Xixixi'
+global.packname = 'kanna BOT'
+global.author = '© Afgan Ganteng wkwk'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
